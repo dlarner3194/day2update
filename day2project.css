@@ -49,12 +49,13 @@ body{
 	width: 100px;
 	background: #0071A0;
 	float: right;
+	text-align: center;
+	line-height: 3.5rem;
 }
 
 .word3{
 	color: white;
 	font-size: 16px; 
-	text-align: center;
 }
 
 .bigbox{
@@ -106,93 +107,62 @@ body{
 
 .box2{
 	height: 6%;
-	width: 60px;
-	background: white;
+	width: 18.75rem;
 	margin-left: 20%;
 	margin-right: auto;
 	margin-bottom: 20px;
 }
 
-.text3{
+.imgbox{
+	background: white;
+	width: 47px;
+	height: 57px;
+	float: left;
+	margin: 0px 10px 15px 10px;
+}
+
+.feature-heading{
 	color: white;
 	font-weight: normal;
 	font-size: 21px;
-	margin-left: 128%;
 	white-space: nowrap;
 }
 
-.text4{
+.feature-subtitle{
 	color: #D5D6D7;
 	font-weight: lighter;
-	font-size: 18px;
-	margin-left: 128%;
-	white-space: nowrap;
-}
-
-.text5{
-	color: white;
-	font-weight: normal;
-	font-size: 21px;
-	margin-left: 128%;
-	white-space: nowrap;
-}
-
-.text6{
-	color: #D5D6D7;
-	font-weight: lighter;
-	font-size: 18px;
-	margin-left: 128%;
-	white-space: nowrap;
-}
-
-.text7{
-	color: white;
-	font-weight: normal;
-	font-size: 21px;
-	margin-left: 128%;
-	white-space: nowrap;
-}
-
-.text8{
-	color: #D5D6D7;
-	font-weight: lighter;
-	font-size: 18px;
-	margin-left: 128%;
+	font-size: 14px;
 	white-space: nowrap;
 }
 
 .seven{
-	position: relative;
 	background: #C6D2D7;
-	height: 25%;
-	width: 5%;
-	top: 10%;
-	left: 45%;
-	margin: 0;
+	height: 62px;
+	width: 62px;
+	margin: auto;
 }
 
 .eight{
-	position: relative;
 	background: #C6D2D7;
 	height: 10%;
 	width: 95%;
 	top: 17%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .nine{
-	position: relative;
 	background: #C6D2D7;
 	height: 20%;
 	width: 95%;
 	top: 24%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .ten{
-	position: relative;
 	background: #C6D2D7;
 	height: 25%;
 	width: 5%;
@@ -202,27 +172,26 @@ body{
 }
 
 .eleven{
-	position: relative;
 	background: #C6D2D7;
 	height: 10%;
 	width: 95%;
 	top: 17%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .twelve{
-	position: relative;
 	background: #C6D2D7;
 	height: 20%;
 	width: 95%;
 	top: 24%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .thirteen{
-	position: relative;
 	background: #C6D2D7;
 	height: 25%;
 	width: 5%;
@@ -232,27 +201,26 @@ body{
 }
 
 .fourteen{
-	position: relative;
 	background: #C6D2D7;
 	height: 10%;
 	width: 95%;
 	top: 17%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .fifteen{
-	position: relative;
 	background: #C6D2D7;
 	height: 20%;
 	width: 95%;
 	top: 24%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .sixteen{
-	position: relative;
 	background: #C6D2D7;
 	height: 25%;
 	width: 5%;
@@ -262,27 +230,26 @@ body{
 }
 
 .seventeen{
-	position: relative;
 	background: #C6D2D7;
 	height: 10%;
 	width: 95%;
 	top: 17%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .eighteen{
-	position: relative;
 	background: #C6D2D7;
 	height: 20%;
 	width: 95%;
 	top: 24%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .nineteen{
-	position: relative;
 	background: #C6D2D7;
 	height: 25%;
 	width: 5%;
@@ -292,27 +259,26 @@ body{
 }
 
 .twenty{
-	position: relative;
 	background: #C6D2D7;
 	height: 10%;
 	width: 95%;
 	top: 17%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .twenty-one{
-	position: relative;
 	background: #C6D2D7;
 	height: 20%;
 	width: 95%;
 	top: 24%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .twenty-two{
-	position: relative;
 	background: #C6D2D7;
 	height: 25%;
 	width: 5%;
@@ -322,23 +288,27 @@ body{
 }
 
 .twenty-three{
-	position: relative;
 	background: #C6D2D7;
 	height: 10%;
 	width: 95%;
 	top: 17%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
 }
 
 .twenty-four{
-	position: relative;
 	background: #C6D2D7;
 	height: 20%;
 	width: 95%;
 	top: 24%;
 	left: 2.5%;
 	margin: 0;
+	text-align: center;
+}
+
+.inner-box-1 > .feature-subtitle{
+	font-size: 24px;
 }
 
 .otherbox{
@@ -354,10 +324,11 @@ body{
 .text9{
 	color: #424154;
 	display: inline;
-	font-size: 37px;
-	font-weight: normal;
-	white-space: normal;
+	font-size: 33px;
+	font-weight: lighter;
 	text-align: center;
+	float: left;
+	padding-top: 18px;
 }
 
 .box4{
@@ -371,7 +342,7 @@ body{
 .inner-box-1{
 	height: 240px;
 	background: white;
-	margin: 20px 10px 20px 10px;
+	margin: 15px 10px 20px 10px;
 }
 
 .box5{
