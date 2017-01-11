@@ -60,7 +60,8 @@ body{
 
 .bigbox{
 	height: 70rem;
-	background: #334050;
+	/*background: #334050;*/
+	background-image: url(https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/mobile-layout-2/master/images/crowd.jpg);
 }
 
 .text1{
@@ -114,7 +115,6 @@ body{
 }
 
 .imgbox{
-	background: white;
 	width: 47px;
 	height: 57px;
 	float: left;
@@ -131,7 +131,7 @@ body{
 .feature-subtitle{
 	color: #D5D6D7;
 	font-weight: lighter;
-	font-size: 22px;
+	font-size: 16px;
 }
 
 .seven{
@@ -156,6 +156,7 @@ body{
 .nine > .feature-subtitle{
 	color: #4B4B4C;
 	line-height: 1.5;
+	font-size: 22px;
 }
 
 .nine{
@@ -195,6 +196,7 @@ body{
 
 .twelve > .feature-subtitle{
 	color: #4B4B4C;
+	font-size: 22px;
 }
 
 .thirteen{
@@ -226,6 +228,7 @@ body{
 
 .fifteen > .feature-subtitle{
 	color: #4B4B4C;
+	font-size: 22px;
 }
 
 .sixteen{
@@ -257,6 +260,7 @@ body{
 
 .eighteen > .feature-subtitle{
 	color: #4B4B4C;
+	font-size: 22px;
 }
 
 .nineteen{
@@ -288,6 +292,7 @@ body{
 
 .twenty-one > .feature-subtitle{
 	color: #4B4B4C;
+	font-size: 22px;
 }
 
 .twenty-two{
@@ -319,6 +324,7 @@ body{
 
 .twenty-four > .feature-subtitle{
 	color: #4B4B4C;
+	font-size: 22px;
 }
 
 .inner-box-1 > .feature-subtitle{
@@ -398,9 +404,15 @@ body{
 	margin: 15px;
 }
 
-.white{
+/*.white{
 	background: white;
 	height: 25px;
 	width: 130px;
 	margin: auto;
-}
+}*/
+
+
+
+
+
+
